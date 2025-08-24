@@ -1,7 +1,9 @@
-A imagem a seguir mostra o processo de **criação de um banco de dados SQL no Microsoft Azure**. Estas são as etapas de configurações iniciais, onde define os parâmetros básicos do banco de dados.
+RESUMO: sobre o que foi feito no processo de criação de um banco de dados SQL no Microsoft Azure.
 ---
 
 ## 🧾 **O que foi feito na imagem**
+A imagem a seguir mostra o processo de **criação de um banco de dados SQL no Microsoft Azure**. Estas são as etapas de configurações iniciais, onde define os parâmetros básicos do banco de dados.
+
 
 Você acessa o portal do Azure e inicia a criação de um banco de dados SQL. Na tela, você preencha os dados básicos como nome do banco, servidor, grupo de recursos e região. Também visualiza o **resumo de custos**, que mostra quanto será cobrado por armazenamento e computação. 
 
@@ -35,5 +37,3 @@ Você acessa o portal do Azure e inicia a criação de um banco de dados SQL. Na
 - Revisão das configurações.
 - Pronto para clicar em **"Criar"** e provisionar o banco de dados.
 
-# db-azure
-# DB-Azure
