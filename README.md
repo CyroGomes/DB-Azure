@@ -36,3 +36,4 @@ Você acessa o portal do Azure e inicia a criação de um banco de dados SQL. Na
 - Pronto para clicar em **"Criar"** e provisionar o banco de dados.
 
 # db-azure
+# DB-Azure
